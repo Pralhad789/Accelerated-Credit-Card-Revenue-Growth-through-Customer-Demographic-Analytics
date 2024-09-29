@@ -40,7 +40,7 @@ The data spanned over one year of weekly updates and included key variables such
 * The average transaction amount is significantly increasing, hinting that customers are making higher-value purchases.
 
 5. **Geographic Insights:**
-*TX, NY, and CA contribute to 68% of the total revenue, making these key markets. The company may want to continue focusing on these regions for targeted marketing campaigns or customer engagement.
+* TX, NY, and CA contribute to 68% of the total revenue, making these key markets. The company may want to continue focusing on these regions for targeted marketing campaigns or customer engagement.
 
 6. **Customer Demographics:**
 * Customers aged 40-50 and 50-60 contribute the most to revenue, implying a high level of financial activity within these age groups.
