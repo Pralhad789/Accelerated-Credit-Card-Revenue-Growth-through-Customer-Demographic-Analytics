@@ -69,3 +69,14 @@ The delinquency rate of 6.06% could inform the business of potential credit risk
 
 5. **Region-Specific Strategies:**
 Since a significant portion of the revenue comes from TX, NY, and CA, the business can develop region-specific strategies to either enhance services in these areas or replicate success in lower-performing regions.
+
+## Recommendation
+
+The analysis led to several actionable recommendations for Zephyr Financial:
+
+* Focus on the Blue and Silver card categories, as they drive the majority of revenue and transactions.
+* Increase marketing efforts in Texas, New York, and California to capitalize on high customer spending.
+* Offer targeted incentives to male customers and high-income groups, as they contribute the most to revenue.
+* Invest in increasing awareness among other payment modes other than swipe-based payment technology as well and promote it among customers, as it will generate s greater revenue.
+  
+These recommendations guided Zephyr Financial toward optimizing its customer engagement strategies and driving long-term growth.
