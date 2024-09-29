@@ -21,6 +21,7 @@ The data spanned over one year of weekly updates and included key variables such
 * Interest Earned: Interest accrued from card payments
 * Customer Demographics: Age group, income level, education, gender
 * Card Type Usage: Usage of different card categories (Blue, Silver, Gold, Platinum)
+  
 The integration of these datasets facilitates a analytical framework for examining credit card performance and customer behavior. By correlating transactional metrics with demographic variables, the analysis can uncover actionable insights that drive strategic decision-making, optimize credit card offerings, enhance revenue streams, and improve customer experience through data-driven initiatives.
 
 ## Dashboard 
