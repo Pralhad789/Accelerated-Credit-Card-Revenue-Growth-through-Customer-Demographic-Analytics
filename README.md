@@ -20,3 +20,35 @@ The data spanned over one year of weekly updates and included key variables such
 * Interest Earned: Interest accrued from card payments
 * Customer Demographics: Age group, income level, education, gender
 * Card Type Usage: Usage of different card categories (Blue, Silver, Gold, Platinum)
+
+## Analysis and Key Insights
+
+1. **Revenue Growth:**
+* Revenue increased by 28.8% WoW (Week over Week), signaling positive growth in credit card usage and potentially higher consumer spending.
+* YTD (Year-to-Date) Revenue stands at $57M, indicating substantial financial activity over the year.
+
+2.**Customer Insights:**
+* Male customers contribute more to the revenue ($31M), while female customers contribute $26M.
+* There’s an 11.35% increase in customer count, showing positive customer acquisition or retention.
+
+3. **Product Performance:**
+* Blue and Silver credit cards account for 93% of overall transactions, which means these tiers are performing significantly better than others (Gold and Platinum).
+* It may indicate that customers prefer lower-tier cards, possibly due to better benefits or lower fees.
+
+4. **Transaction Volume:**
+* Total transaction count increased by 3.28% and the total transaction amount increased by 25.95% WoW, showing increased consumer engagement with credit cards.
+* The average transaction amount is significantly increasing, hinting that customers are making higher-value purchases.
+
+5. **Geographic Insights:**
+*TX, NY, and CA contribute to 68% of the total revenue, making these key markets. The company may want to continue focusing on these regions for targeted marketing campaigns or customer engagement.
+
+6. **Customer Demographics:**
+* Customers aged 40-50 and 50-60 contribute the most to revenue, implying a high level of financial activity within these age groups.
+* Education Level shows that graduates contribute the most revenue, followed by high school-educated customers. This provides insights for targeting specific education levels in marketing efforts.
+
+7. **Transaction Methods:**
+* Swipe transactions contribute the most revenue ($36M), followed by chip ($17M) and online ($4M). This indicates swipe payments are still highly prevalent, and more efforts may be needed to promote online transactions.
+
+8. **Credit Card Activation and Delinquency:**
+* Activation rate is at 57.5%, suggesting room for improvement in engaging more cardholders to activate their cards.
+* The delinquent rate is 6.06%, which is a key metric to monitor for risk management.
