@@ -27,7 +27,7 @@ The integration of these datasets facilitates a analytical framework for examini
 ## Dashboard 
 
 PowerBI Dashboard - Revenue Analytics
-![Dasboard](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics/blob/main/CreaditCard_Transaction.png)
+![Dasboard](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics/blob/main/CreditCard_Transaction.png)
 
 PowerBI Dashboard - Customer Demographics
 ![Dasboard](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics/blob/main/CreaditCard_Customer.png)
