@@ -20,6 +20,7 @@ The data spanned over one year of weekly updates and included key variables such
 * Interest Earned: Interest accrued from card payments
 * Customer Demographics: Age group, income level, education, gender
 * Card Type Usage: Usage of different card categories (Blue, Silver, Gold, Platinum)
+The integration of these datasets facilitates a analytical framework for examining credit card performance and customer behavior. By correlating transactional metrics with demographic variables, the analysis can uncover actionable insights that drive strategic decision-making, optimize credit card offerings, enhance revenue streams, and improve customer experience through data-driven initiatives.
 
 ## Analysis and Key Insights
 
@@ -77,6 +78,6 @@ The analysis led to several actionable recommendations for Zephyr Financial:
 * Focus on the Blue and Silver card categories, as they drive the majority of revenue and transactions.
 * Increase marketing efforts in Texas, New York, and California to capitalize on high customer spending.
 * Offer targeted incentives to male customers and high-income groups, as they contribute the most to revenue.
-* Invest in increasing awareness among other payment modes other than swipe-based payment technology as well and promote it among customers, as it will generate s greater revenue.
+* Invest in increasing awareness among other payment modes other than swipe-based payment technology as well and promote it among customers, as it will generate greater revenue.
   
 These recommendations guided Zephyr Financial toward optimizing its customer engagement strategies and driving long-term growth.
