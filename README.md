@@ -24,12 +24,14 @@ The data spanned over one year of weekly updates and included key variables such
   
 The integration of these datasets facilitates a analytical framework for examining credit card performance and customer behavior. By correlating transactional metrics with demographic variables, the analysis can uncover actionable insights that drive strategic decision-making, optimize credit card offerings, enhance revenue streams, and improve customer experience through data-driven initiatives.
 
-## Dashboard 
+## PowerBI Dashboard 
 
-PowerBI Dashboard - Revenue Analytics
+Revenue Analytics
+
 ![Dasboard](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics/blob/main/CreditCard_Transaction.png)
 
-PowerBI Dashboard - Customer Demographics
+Customer Demographics
+
 ![Dasboard](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics/blob/main/CreaditCard_Customer.png)
 
 ## Analysis and Key Insights
