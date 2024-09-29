@@ -27,7 +27,7 @@ The data spanned over one year of weekly updates and included key variables such
 * Revenue increased by 28.8% WoW (Week over Week), signaling positive growth in credit card usage and potentially higher consumer spending.
 * YTD (Year-to-Date) Revenue stands at $57M, indicating substantial financial activity over the year.
 
-2.**Customer Insights:**
+2. **Customer Insights:**
 * Male customers contribute more to the revenue ($31M), while female customers contribute $26M.
 * There’s an 11.35% increase in customer count, showing positive customer acquisition or retention.
 
