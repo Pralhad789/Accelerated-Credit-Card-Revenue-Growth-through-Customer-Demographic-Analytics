@@ -1,5 +1,17 @@
 # Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics
 
+## Table of Contents
+
+1. [Business Overview](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#business-overview)
+2. [Project Overview](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#project-overview)
+3. [Data Overview](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#data-overview)
+4. [PowerBI Dashboard](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#powerbi-dashboard)
+5. [Analysis and Key Insights](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#analysis-and-key-insights)
+6. [Business Implications](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#business-implications)
+7. [Recommendation](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#recommendation)
+8. [Conclusion](https://github.com/Pralhad789/Accelerated-Credit-Card-Revenue-Growth-through-Customer-Demographic-Analytics#conclusion)
+
+
 ## Business Overview
 
 Zephyr Financial, a credit card company is experiencing challenges in sustaining its revenue growth, understanding customer behavior, and optimizing card usage across various customer segments. The company has noted high variability in transaction volumes, customer retention issues, and an inability to identify which customer categories contribute the most to overall revenue. These challenges are affecting the company’s ability to allocate resources effectively and personalize marketing strategies. Key metrics such as transaction amounts, customer demographics, card usage trends, and regional performance need to be analyzed to help Zephyr Financial identify opportunities for revenue growth, improve customer loyalty, and optimize product offerings.
