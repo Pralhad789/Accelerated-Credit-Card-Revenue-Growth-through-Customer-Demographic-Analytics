@@ -10,6 +10,7 @@ The objective of this project is to develop a Credit Card Transaction and Custom
 2. Providing a consolidated view of performance metrics across customer demographics
 3. Transaction types
 4. Geographic regions.
+
 This will assist Senior Leadership team  to make data-driven decisions to optimize credit card offerings, increase revenue, reduce risk, and enhance customer experience through focused strategies.
 
 ## Data Overview
